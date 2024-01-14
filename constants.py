@@ -10,6 +10,9 @@ SQUARE_SIZE = WIDTH // COLS # permet d'indiquer que la taille des carrés varien
 LIGHT_BROWN = (255,204,153)
 BROWN = (153, 76, 0)
 BLUE = (0,0,255)
+GREY = (128,128,128)
+WHITE = (255, 255, 255)
+BLACK = (0,0,0)
 
 
 #path of pawn
