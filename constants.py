@@ -19,5 +19,5 @@ BLACK = (0,0,0)
 PATH = "chess_img"
 
 #pawn sizing
-# black_pawn = pg.transform.scale(pg.image.load(os.path.join(PATH, 'black_pawn.png')), (SQUARE, SQUARE))
+CROWN = pg.transform.scale(pg.image.load(os.path.join(PATH, 'crown2.png')), (44, 25))
 # red_pawn = pg.transform.scale(pg.image.load(os.path.join(PATH, 'red_pawn.png')), (SQUARE, SQUARE))
