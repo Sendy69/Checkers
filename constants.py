@@ -1,6 +1,9 @@
 import pygame as pg
 import os
-# Rôle de OS et pygame ??
+
+## Ce fichier contient tous les objets stables du jeu c-à-d qui ne changeront pas dans le jeu de dame soient les couleurs,
+## les dimensions du tableaux, le chemin d'accès de l'image de la couronne 
+
 
 WIDTH, HEIGHT = 800, 800  # Dimension du jeu
 ROWS, COLS = 8,8
